@@ -4,7 +4,7 @@ title: Disqus & open graph
 comments: true
 ---
 
-Disqus seems to come bundled with jekyll, all you need to do is register the site with disqus.
+Disqus seems to come bundled with jekyll, all you need to do is register the site with disqus. Also
+had to add a few lines of code to the config page.
 
-I've tried putting the required metatags for open graph into _includes/head but i don't seem able
-to get it right. 
+With opengraph you put a few meta-tags in the head, seems easy enough in theory. 
