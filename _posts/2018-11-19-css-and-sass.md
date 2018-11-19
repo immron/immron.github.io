@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: post
 title: css and sass
+comments: true
 ---
 
 What do i think of precompiling css and static site generators?

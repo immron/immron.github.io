@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "First post and first impressions"
+comments: true
 ---
 
 So this is the first post. Hurrah. So far it seems pretty simple. Most of the work

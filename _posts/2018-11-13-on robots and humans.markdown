@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'On robots and humans'
+comments: true
 ---
 
 <h1> On Robots and Humans </h1>
